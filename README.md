@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Vladimir Glukhov 👋
+---
+🔭 .NET/C# Backend developer
+
 
 <!--
 **root-glukhov/root-glukhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
